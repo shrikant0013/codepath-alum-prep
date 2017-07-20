@@ -1,3 +1,8 @@
+package week1;
+
+import java.util.ArrayList;
+import java.util.List;
+
 public class NextGreater {
     public ArrayList<Integer> nextGreater(List<Integer> a) {
         ArrayList<Integer> result =  new ArrayList<>();

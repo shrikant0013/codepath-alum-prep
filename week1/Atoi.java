@@ -1,3 +1,5 @@
+package week1;
+
 public class Atoi {
 	public int atoi(final String aa) {
 	   

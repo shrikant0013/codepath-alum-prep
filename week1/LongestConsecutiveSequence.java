@@ -1,3 +1,9 @@
+package week1;
+
+import java.util.HashSet;
+import java.util.List;
+import java.util.Set;
+
 public class LongestConsecutiveSequence {
     public int longestConsecutive(final List<Integer> a) {
         int result = 0;
